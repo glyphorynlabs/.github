@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="GlyphorynLabs banner" width="100%">
+</p>
+
 # GlyphorynLabs
 
 GlyphorynLabs is an engineering collective focused on building modern developer tools, frameworks and infrastructure.
